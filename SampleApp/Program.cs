@@ -4,8 +4,6 @@
   {
     private static void Main()
     {
-
-
     }
   }
 }
